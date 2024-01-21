@@ -1,5 +1,6 @@
 # FineTuning LLM
 
+
 ## Description
 This repository is dedicated to demonstrating the fine-tuning of Large Language Models (LLM) using Low-Rank Adaptation (LoRA) in conjunction with the Prompt-tuning with Frozen Pre-trained Transformers (PEFT) module from Hugging Face. It features a comprehensive Jupyter notebook that walks through the fine-tuning process, making it accessible for both beginners and experienced practitioners in the field of natural language processing.
 
