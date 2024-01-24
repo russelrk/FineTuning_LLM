@@ -39,7 +39,6 @@ Alternatively, see the GitHub documentation on [creating a pull request](https:/
 
 ## Authors
 - <Your Name>
-- Other contributors (if any)
 
 ## Acknowledgments
 - Special thanks to the Hugging Face team for the Transformers library.
